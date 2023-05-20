@@ -1,0 +1,7 @@
+{
+    "sourceApimName": "name-of-your-apim-instance",
+    "destinationApimName": "same-as-source-apimName",
+    "resourceGroup": "resource-group-name-of-apim",
+    "apiName": "api-name-to-be-exported",
+    "fileFolder": "./output"
+}
