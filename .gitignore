@@ -1,2 +1,4 @@
 *.local.json
 *.local.sh
+output/
+azure-api-management-devops-resource-kit/
