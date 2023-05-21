@@ -5,7 +5,7 @@
 # apim-extractor
 This repository serves as a wrapper devcontainer for the Azure API Management DevOps Resource Kit. It can be used in Visual Studio Code or GitHub Codespaces.
 
-## Configuration:
+## Configuration
 1. Update the `extract.sh` script with your Azure tenant and subscription IDs.
 
 2. Update the `extract-settings.json` file with your Azure API Management details.
