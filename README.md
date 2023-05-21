@@ -12,8 +12,7 @@ This repository serves as a wrapper devcontainer for the Azure API Management De
 
 The parameters required for the extract-settings.json file are documented in the Azure API Management DevOps Resource Kit README. You can find the details here: 
 
-https://github.com/Azure/azure-api-management-devops-resource-kit/blob/main/src/README.md#prerequisite
-
+https://github.com/Azure/azure-api-management-devops-resource-kit/blob/main/src/README.md#extractor-arguments
 
 ## Execution
 Run the extraction script using the following command:
